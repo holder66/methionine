@@ -7,4 +7,7 @@ Conversely, fruits and vegetables have low methionine concentrations. It has eve
 
 To aid those who wish to reduce the methionine content of their diet, I've adapted the information provided in the USDA Nutrient Database, into an easy to use Filemaker database.
 The database requires that Filemaker Go, version 13, be installed on your iOS device (iPhone, iPad, iPod Touch. Filemaker Go 13 is free at the Apple App Store.
-Install the .fmp12 file on your iOS device, either via iTunes, or by sending the file by email or message to your device, or with AirDrop.
+
+In your web browser on your iOS device, touch the filename USDASR27methionine_v2.fmp12. In the page that opens, touch the "view the full file." After the file finishes downloading, open it in FileMaker Go 13.
+
+Touch the "?" icon at the upper right to go to a help screen.
