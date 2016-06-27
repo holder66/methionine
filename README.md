@@ -13,6 +13,6 @@ There are several tools for filtering food items, for sorting, for finding speci
  
 The database requires that Filemaker Go, version 13 or later, be installed on your iOS device (iPhone, iPad, iPod Touch. Filemaker Go 15, the current version, is free at the Apple App Store.
 
-In the web browser on your iOS device, touch the filename USDASR27methionine_v8rc.fmp12. In the page that opens, touch the "view the full file." After the file finishes downloading, open it in FileMaker Go.
+In the web browser on your iOS device, touch the filename USDASR27methionine_v8_2.fmp12. In the page that opens, touch the "view the full file." After the file finishes downloading, open it in FileMaker Go.
 
-Touch the "?" icon at the upper right to go to a help screen.
+Touch the "?" icon at the bottom to go to a help screen.
